@@ -1,0 +1,8 @@
+p{
+    color: violet;
+    background-color: aliceblue;
+}
+img{
+    width: 100px;
+    border-radius: 3px dashed black;
+}
